@@ -53,3 +53,6 @@ To run the application:
 
 Download the GitHub zip file and extract the project's files anywhere in your local machine or clone the repository onto your local workstation. In any case just:
 Open a browser window and navigate to the index.html file in your application's directory.
+
+If you want a simplest way just click the link and you are ready to go!!!
+[Run!](https://arispant.github.io/frontend-nanodegree-feedreader/)
